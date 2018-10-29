@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wowliao.com/categories/index.html</loc>
+    
+    <lastmod>2018-10-29T09:23:12.765Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wowliao.com/tags/index.html</loc>
+    
+    <lastmod>2018-10-29T09:21:38.765Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wowliao.com/about/index.html</loc>
+    
+    <lastmod>2018-10-29T09:21:06.881Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wowliao.com/gallery/index.html</loc>
     
     <lastmod>2018-10-29T08:42:04.361Z</lastmod>
