@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wowliao.com/tags/index.html</loc>
+    
+    <lastmod>2018-10-30T06:48:55.266Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wowliao.com/categories/index.html</loc>
+    
+    <lastmod>2018-10-30T06:48:08.952Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wowliao.com/about/index.html</loc>
+    
+    <lastmod>2018-10-30T06:47:52.959Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wowliao.com/gallery/index.html</loc>
     
-    <lastmod>2018-10-30T06:38:05.947Z</lastmod>
+    <lastmod>2018-10-30T06:47:27.827Z</lastmod>
     
   </url>
   
@@ -12,27 +33,6 @@
     <loc>http://wowliao.com/Random-img/index.html</loc>
     
     <lastmod>2018-10-30T04:03:33.958Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://wowliao.com/categories/index.html</loc>
-    
-    <lastmod>2018-10-29T09:23:12.765Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://wowliao.com/tags/index.html</loc>
-    
-    <lastmod>2018-10-29T09:21:38.765Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://wowliao.com/about/index.html</loc>
-    
-    <lastmod>2018-10-29T09:21:06.881Z</lastmod>
     
   </url>
   
